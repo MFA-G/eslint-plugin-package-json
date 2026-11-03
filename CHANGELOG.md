@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.14.0](https://github.com/michaelfaith/eslint-plugin-package-json/compare/v1.13.0...v1.14.0) (2026-11-03)
+
+
+### 🚀 Features
+
+* add `prefer-scoped-name` rule ([#2415](https://github.com/michaelfaith/eslint-plugin-package-json/issues/2415)) ([304ba67](https://github.com/michaelfaith/eslint-plugin-package-json/commit/304ba67cdd13f0e1413419fbdfff263353e0d737)), closes [#1875](https://github.com/michaelfaith/eslint-plugin-package-json/issues/1875)
+
 ## [1.13.0](https://github.com/michaelfaith/eslint-plugin-package-json/compare/v1.12.0...v1.13.0) (2026-11-01)
 
 
